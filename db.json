@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "jon@test.com",
+      "name": "john",
+      "password": "08698",
+      "id": 1
+    },
+    {
+      "email": "jon@test.com",
+      "name": "john",
+      "password": "08698",
+      "id": 2
+    },
+    {
+      "name": "rec",
+      "email": "re@test.com",
+      "password": "hgdgssj",
+      "id": 3
+    },
+    {
+      "name": "badle",
+      "email": "b@test.com",
+      "password": "wve",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "name": "paul",
+      "email": "paul @test.com",
+      "password": "wwvef",
+      "id": 6
+    },
+    {
+      "name": "des",
+      "email": "des@test.com",
+      "password": "kwgibew",
+      "id": 7
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "kfc",
+      "address": "russia",
+      "contact": "Moscow",
+      "id": 1
+    }
+  ]
+}
